@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiotrPeszko
-- 👀 I’m interested in home automation, radio interface, 5G (2-4G), coding
+- 👀 I’m interested in home automation, radio interface, 5G (2-4G), coding, C, ESP8266
 - 🌱 I’m currently learning ocasionally LUA and javascript
 - 📫 How to reach me: piotr@peszko.net
 
